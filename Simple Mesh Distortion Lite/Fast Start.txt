@@ -1,0 +1,7 @@
+Get a GameObject with that have mesh or childrens that have mesh.
+
+Add the Script Distort
+
+If you want animation, add the script AnimatedDistort
+
+For more information, read the documentation, or hover the mouse on top of a property
